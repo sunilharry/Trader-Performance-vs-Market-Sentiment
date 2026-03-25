@@ -48,6 +48,21 @@ Python, Pandas, Matplotlib, Seaborn, Scikit-learn
 3. Run all cells  
 
 ---
+## 📊 Visualizations
+
+### PnL by Sentiment
+![PnL Chart](images/"D:/Data_Science_Intern/PnL_chart.png")
+
+### Trade Size Distribution
+![Trade Size](images/"D:/Data_Science_Intern/Trade_Size_chart.png")
+
+### Trading Activity Heatmap
+![Heatmap](images/"D:/Data_Science_Intern/Trading_Activity_Heatmap.png")
+
+### Long Vs Short Distribution
+![Stacked](images/"D:/Data_Science_Intern/Long_Vs_Short_Distribution_chart.png")
+
+---
 
 ## 🔹 Author
 Sunil Kumar Yadav
