@@ -47,20 +47,6 @@ Python, Pandas, Matplotlib, Seaborn, Scikit-learn
 2. Open the notebook  
 3. Run all cells  
 
----
-## 📊 Visualizations
-
-### PnL by Sentiment
-![PnL Chart](images/Data_Science_Intern/PnL_chart)
-
-### Trade Size Distribution
-![Trade Size](images/Data_Science_Intern/Trade_Size_chart.png)
-
-### Trading Activity Heatmap
-![Heatmap](images/Trading_Activity_Heatmap.png)
-
-### Long Vs Short Distribution
-![Stacked](images/Data_Science_Intern/Long_Vs_Short_Distribution_chart.png)
 
 ---
 
