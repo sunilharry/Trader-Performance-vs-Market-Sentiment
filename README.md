@@ -51,16 +51,16 @@ Python, Pandas, Matplotlib, Seaborn, Scikit-learn
 ## 📊 Visualizations
 
 ### PnL by Sentiment
-![PnL Chart]("D:/Data_Science_Intern/PnL_chart.png")
+![PnL Chart](images/Data_Science_Intern/PnL_chart)
 
 ### Trade Size Distribution
-![Trade Size]("D:/Data_Science_Intern/Trade_Size_chart.png")
+![Trade Size](images/Data_Science_Intern/Trade_Size_chart.png)
 
 ### Trading Activity Heatmap
-![Heatmap]("D:/Data_Science_Intern/Trading_Activity_Heatmap.png")
+![Heatmap](images/Trading_Activity_Heatmap.png)
 
 ### Long Vs Short Distribution
-![Stacked]("D:/Data_Science_Intern/Long_Vs_Short_Distribution_chart.png")
+![Stacked](images/Data_Science_Intern/Long_Vs_Short_Distribution_chart.png)
 
 ---
 
