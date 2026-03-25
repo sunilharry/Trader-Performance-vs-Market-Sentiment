@@ -51,6 +51,9 @@ Python, Pandas, Matplotlib, Seaborn, Scikit-learn
 ---
 
 ![image alt](https://github.com/sunilharry/Trader-Performance-vs-Market-Sentiment/blob/6e7c653f22c6bd9fd127245ef82d58a35ef8a722/PnL_chart.png)
+![image alt](https://github.com/sunilharry/Trader-Performance-vs-Market-Sentiment/blob/f48a2d2431dec028773cf851d997eb73bfd96b31/Trade_Size_chart.png)
+![image alt](https://github.com/sunilharry/Trader-Performance-vs-Market-Sentiment/blob/6e7c653f22c6bd9fd127245ef82d58a35ef8a722/PnL_chart.png)
+![image alt](https://github.com/sunilharry/Trader-Performance-vs-Market-Sentiment/blob/6e7c653f22c6bd9fd127245ef82d58a35ef8a722/PnL_chart.png)
 
 ## 🔹 Author
 Sunil Kumar Yadav
